@@ -1,6 +1,6 @@
-//You will have to scrape the data from the fda website. 
+//You will have to scrape the data from the fda website.  
 
-//I have 999 pages of data, seperating the upc by the last three digits. 
+//I have 999 pages of data, seperating the upc by the last three digits. Broken purely for speed, if everything is in one file causes a heavy server load and takes longer
 //the formatting of the data will look as such:
 
 <?php if(isset($_POST['upc'])) {
