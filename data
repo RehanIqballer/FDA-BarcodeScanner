@@ -1,4 +1,4 @@
-//You will have to scrape the data from the fda website.
+//You will have to scrape the data from the fda website. 
 
 //I have 999 pages of data, seperating the upc by the last three digits. 
 //the formatting of the data will look as such:
